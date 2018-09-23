@@ -1,0 +1,10 @@
+C:\Users\Omar\source\repos\Week 3 Assignments\Assignment 13\bin\Debug\Assignment 13.exe.config
+C:\Users\Omar\source\repos\Week 3 Assignments\Assignment 13\bin\Debug\Assignment 13.exe
+C:\Users\Omar\source\repos\Week 3 Assignments\Assignment 13\bin\Debug\Assignment 13.pdb
+C:\Users\Omar\source\repos\Week 3 Assignments\Assignment 13\obj\Debug\Assignment_13.Form1.resources
+C:\Users\Omar\source\repos\Week 3 Assignments\Assignment 13\obj\Debug\Assignment_13.Properties.Resources.resources
+C:\Users\Omar\source\repos\Week 3 Assignments\Assignment 13\obj\Debug\Assignment 13.csproj.GenerateResource.cache
+C:\Users\Omar\source\repos\Week 3 Assignments\Assignment 13\obj\Debug\Assignment 13.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\Week 3 Assignments\Assignment 13\obj\Debug\Assignment 13.exe
+C:\Users\Omar\source\repos\Week 3 Assignments\Assignment 13\obj\Debug\Assignment 13.pdb
+C:\Users\Omar\source\repos\Week 3 Assignments\Assignment 13\obj\Debug\Assignment 13.csprojAssemblyReference.cache
