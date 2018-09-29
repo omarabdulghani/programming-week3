@@ -10,7 +10,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter a number (i.e 1 to 4): ");
+            Console.Write("Enter a number (i.e 1 to 4): ");
             double enteredNumber = double.Parse(Console.ReadLine());
 
             switch (enteredNumber)

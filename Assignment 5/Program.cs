@@ -10,26 +10,26 @@ namespace Assignment_5
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter first number: ");
+            Console.Write("Enter first number: ");
             double firstnumber = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("Enter second number: ");
+            Console.Write("Enter second number: ");
             double secondnumber = double.Parse(Console.ReadLine());
 
             if (firstnumber > secondnumber && firstnumber % secondnumber == 0)
             {
-                Console.WriteLine("Number 1 is a mulitple of number 2");
+                Console.Write("Number 1 is a mulitple of number 2");
             }
 
             else if (secondnumber > firstnumber && secondnumber % firstnumber == 0)
             {
 
-                Console.WriteLine("Number 2 is mulitple of number 1");
+                Console.Write("Number 2 is mulitple of number 1");
             }
 
             else
             {
-                Console.WriteLine("Numbers are no multiples");
+                Console.Write("Numbers are no multiples");
             }
 
             Console.ReadKey();

@@ -10,7 +10,7 @@ namespace Assignment_6
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter score: ");
+            Console.Write("Enter score: ");
             double score = double.Parse(Console.ReadLine());
 
             if (score >= 90)

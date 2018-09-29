@@ -10,13 +10,13 @@ namespace Assignment_4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter the first number: ");
+            Console.Write("Enter the first number: ");
             double numberOne = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("Enter the second number: ");
+            Console.Write("Enter the second number: ");
             double numberTwo = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("Enter the third number: ");
+            Console.Write("Enter the third number: ");
             double numberThree = double.Parse(Console.ReadLine());
 
             double sum = numberOne + numberTwo + numberThree;
@@ -29,7 +29,7 @@ namespace Assignment_4
               if (numberOne > numberTwo & numberOne > numberThree & numberTwo > numberThree)
             {
                 Console.WriteLine("Sum = " + sum);
-                Console.WriteLine("Average = " + average);
+                Console.WriteLine("Average = {0:0.00}", average);
                 Console.WriteLine("Product = " + product);
                 Console.WriteLine("Highest = " + numberOne);
                 Console.WriteLine("Lowest = " + numberThree);
@@ -39,7 +39,7 @@ namespace Assignment_4
               else if (numberOne > numberTwo & numberOne > numberThree & numberThree > numberTwo)
             {
                 Console.WriteLine("Sum = " + sum);
-                Console.WriteLine("Average = " + average);
+                Console.WriteLine("Average = {0:0.00}", average);
                 Console.WriteLine("Product = " + product);
                 Console.WriteLine("Highest = " + numberOne);
                 Console.WriteLine("Lowest = " + numberTwo);
@@ -49,7 +49,7 @@ namespace Assignment_4
                else if (numberTwo > numberOne & numberTwo > numberThree & numberThree > numberOne)
             {
                 Console.WriteLine("Sum = " + sum);
-                Console.WriteLine("Average = " + average);
+                Console.WriteLine("Average = {0:0.00}", average);
                 Console.WriteLine("Product = " + product);
                 Console.WriteLine("Highest = " + numberTwo);
                 Console.WriteLine("Lowest = " + numberOne);
@@ -59,7 +59,7 @@ namespace Assignment_4
                else if (numberTwo > numberOne  & numberTwo > numberThree & numberOne > numberThree)
                 {
                 Console.WriteLine("Sum = " + sum);
-                Console.WriteLine("Average = " + average);
+                Console.WriteLine("Average = {0:0.00}", average);
                 Console.WriteLine("Product = " + product);
                 Console.WriteLine("Highest = " + numberTwo);
                 Console.WriteLine("Lowest = " + numberThree);
@@ -70,7 +70,7 @@ namespace Assignment_4
                else if (numberThree > numberTwo & numberThree > numberOne & numberTwo > numberOne)
             {
                 Console.WriteLine("Sum = " + sum);
-                Console.WriteLine("Average = " + average);
+                Console.WriteLine("Average = {0:0.00}", average);
                 Console.WriteLine("Product = " + product);
                 Console.WriteLine("Highest = " + numberThree);
                 Console.WriteLine("Lowest = " + numberOne);
@@ -80,7 +80,7 @@ namespace Assignment_4
                else if (numberThree > numberTwo & numberThree > numberOne & numberOne > numberTwo)
             {
                 Console.WriteLine("Sum = " + sum);
-                Console.WriteLine("Average = " + average);
+                Console.WriteLine("Average = {0:0.00}", average);
                 Console.WriteLine("Product = " + product);
                 Console.WriteLine("Highest = " + numberThree);
                 Console.WriteLine("Lowest = " + numberTwo);

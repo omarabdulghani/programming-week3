@@ -5,3 +5,10 @@ C:\Users\Omar\source\repos\Week 3 Assignments\Assignment 8\obj\Debug\Assignment 
 C:\Users\Omar\source\repos\Week 3 Assignments\Assignment 8\obj\Debug\Assignment 8.csproj.CoreCompileInputs.cache
 C:\Users\Omar\source\repos\Week 3 Assignments\Assignment 8\obj\Debug\Assignment 8.exe
 C:\Users\Omar\source\repos\Week 3 Assignments\Assignment 8\obj\Debug\Assignment 8.pdb
+C:\Users\Omar\source\repos\Week 3 Assignments\programming-week3\Assignment 8\bin\Debug\Assignment 8.exe.config
+C:\Users\Omar\source\repos\Week 3 Assignments\programming-week3\Assignment 8\bin\Debug\Assignment 8.exe
+C:\Users\Omar\source\repos\Week 3 Assignments\programming-week3\Assignment 8\bin\Debug\Assignment 8.pdb
+C:\Users\Omar\source\repos\Week 3 Assignments\programming-week3\Assignment 8\obj\Debug\Assignment 8.csprojAssemblyReference.cache
+C:\Users\Omar\source\repos\Week 3 Assignments\programming-week3\Assignment 8\obj\Debug\Assignment 8.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\Week 3 Assignments\programming-week3\Assignment 8\obj\Debug\Assignment 8.exe
+C:\Users\Omar\source\repos\Week 3 Assignments\programming-week3\Assignment 8\obj\Debug\Assignment 8.pdb

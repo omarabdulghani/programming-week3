@@ -8,3 +8,13 @@ C:\Users\Omar\source\repos\Week 3 Assignments\WindowsFormsApp1\obj\Debug\Assignm
 C:\Users\Omar\source\repos\Week 3 Assignments\WindowsFormsApp1\obj\Debug\Assignment 9.csproj.CoreCompileInputs.cache
 C:\Users\Omar\source\repos\Week 3 Assignments\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\Omar\source\repos\Week 3 Assignments\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Omar\source\repos\Week 3 Assignments\programming-week3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Omar\source\repos\Week 3 Assignments\programming-week3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Omar\source\repos\Week 3 Assignments\programming-week3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Omar\source\repos\Week 3 Assignments\programming-week3\WindowsFormsApp1\obj\Debug\Assignment 9.csprojAssemblyReference.cache
+C:\Users\Omar\source\repos\Week 3 Assignments\programming-week3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Omar\source\repos\Week 3 Assignments\programming-week3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Omar\source\repos\Week 3 Assignments\programming-week3\WindowsFormsApp1\obj\Debug\Assignment 9.csproj.GenerateResource.cache
+C:\Users\Omar\source\repos\Week 3 Assignments\programming-week3\WindowsFormsApp1\obj\Debug\Assignment 9.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\Week 3 Assignments\programming-week3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Omar\source\repos\Week 3 Assignments\programming-week3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

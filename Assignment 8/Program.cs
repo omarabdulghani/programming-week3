@@ -10,16 +10,16 @@ namespace Assignment_8
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter number of working hours: ");
+            Console.Write("Enter number of working hours: ");
 
             double numberHrs = double.Parse(Console.ReadLine());
 
 
-            Console.WriteLine("Enter number of years: ");
+            Console.Write("Enter number of years: ");
 
             double numberYrs = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("Enter number of failures: ");
+            Console.Write("Enter number of failures: ");
 
             double numberFlrs = double.Parse(Console.ReadLine());
 

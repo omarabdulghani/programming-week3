@@ -10,18 +10,18 @@ namespace Assignment_3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter the first number: ");
+            Console.Write("Enter the first number: ");
             double numberOne = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("Enter the second number: ");
+            Console.Write("Enter the second number: ");
             double numberTwo = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("Enter the third number: ");
+            Console.Write("Enter the third number: ");
             double numberThree = double.Parse(Console.ReadLine());
 
             if (numberOne > numberThree && numberTwo > numberThree)
             {
-                Console.WriteLine("Number Three is the lowest of the three");
+                Console.Write("Number Three is the lowest of the three");
             }
 
             
@@ -30,7 +30,7 @@ namespace Assignment_3
 
            {
 
-                Console.WriteLine("The third number is not the lowest of the three");
+                Console.Write("The third number is not the lowest of the three");
 
            }
 

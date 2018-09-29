@@ -10,22 +10,24 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter number one: ");
+            Console.Write("Enter number one: ");
             double numberOne = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("Enter number two: ");
+            Console.Write("Enter number two: ");
             double numberTwo = double.Parse(Console.ReadLine());
 
             if (numberOne > numberTwo) 
             {
-                Console.WriteLine("The highest value is: " + numberOne + " The lowest value is: " + numberTwo);
+                Console.WriteLine("The highest value is: " + numberOne);
+                Console.Write("The lowest value is: " + numberTwo);
 
             }
 
             else 
 
             {
-                Console.WriteLine("The highest value is: " + numberTwo + " The lowest value is: " + numberOne);
+                Console.WriteLine("The highest value is: " + numberTwo);
+                Console.Write("The lowest value is: " + numberOne);
             }
 
 

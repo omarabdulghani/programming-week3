@@ -1,0 +1,7 @@
+C:\Users\Omar\source\repos\Week 3 Assignments\programming-week3\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Omar\source\repos\Week 3 Assignments\programming-week3\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Omar\source\repos\Week 3 Assignments\programming-week3\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Omar\source\repos\Week 3 Assignments\programming-week3\ConsoleApp1\obj\Debug\Assignment 1.csprojAssemblyReference.cache
+C:\Users\Omar\source\repos\Week 3 Assignments\programming-week3\ConsoleApp1\obj\Debug\Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\Week 3 Assignments\programming-week3\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Omar\source\repos\Week 3 Assignments\programming-week3\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

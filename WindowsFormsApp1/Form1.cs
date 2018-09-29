@@ -56,27 +56,27 @@ namespace WindowsFormsApp1
             if (rdBtnFootball.Checked && age > 40 && membership < 10)
             {
                 lblFee.Text = overfortypriceF.ToString("0.00");
-                btnCalculateFee.BackColor = System.Drawing.Color.LightBlue;
+                
 
             }
             //..if the member checked football and is above forty and membership above ten
             else if (rdBtnFootball.Checked && age > 40 && membership > 10)
             {
                 lblFee.Text = tenyearsFortymemberF.ToString("0.00");
-                btnCalculateFee.BackColor = System.Drawing.Color.LightBlue;
+                
             }
 
             //..if the member checked football and is under forty and membership below ten
             else if (rdBtnFootball.Checked && age <= 40 && membership < 10)
             {
                 lblFee.Text = FMEMEBERSHIP.ToString("0.00");
-                btnCalculateFee.BackColor = System.Drawing.Color.LightBlue;
+                
             }
             //..if the member checked football and is under forty and membership above ten
             else if (rdBtnFootball.Checked && age <= 40 && membership > 10)
             {
                 lblFee.Text = tenyearsmemberF.ToString("0.00");
-                btnCalculateFee.BackColor = System.Drawing.Color.LightBlue;
+                
             }
 
             //..CASE HANDBALL CHECKED
@@ -85,26 +85,26 @@ namespace WindowsFormsApp1
             else if (rdBtnHandball.Checked && age > 40 && membership <= 10)
             {
                 lblFee.Text = overfortypriceH.ToString("0.00");
-                btnCalculateFee.BackColor = System.Drawing.Color.LightSlateGray;
+                
             }
             //..if the member checked hanball and is above forty and membership above ten
             else if (rdBtnHandball.Checked && age > 40 && membership > 10)
             {
                 lblFee.Text = tenyearsFortymemberH.ToString("0.00");
-                btnCalculateFee.BackColor = System.Drawing.Color.LightSlateGray;
+                
             }
 
             //..if the member checked hanball and is under forty and membership below ten
             else if (rdBtnHandball.Checked && age <= 40 && membership <= 10)
             {
                 lblFee.Text = HMEMBERSHIP.ToString("0.00");
-                btnCalculateFee.BackColor = System.Drawing.Color.LightSlateGray;
+                
             }
             //..if the member checked hanball and is under forty and membership above ten
             else if (rdBtnHandball.Checked && age <= 40 && membership > 10)
             {
                 lblFee.Text = tenyearsmemberH.ToString("0.00");
-                btnCalculateFee.BackColor = System.Drawing.Color.LightSlateGray;
+               
             }
 
         }
